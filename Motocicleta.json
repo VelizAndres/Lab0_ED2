@@ -1,0 +1,15 @@
+{
+	"marca":"Honda",
+	"color":"Roja",
+	"modelo":2004,
+	"placa":"m-028DLR"
+	"motorm":{
+		"cantcilindros":2,
+		"cilindrada":75,
+		"dostiempos":false,
+		"cilindro":{
+					"altura":15,
+					"diametro":63.5						
+					}
+			}
+}

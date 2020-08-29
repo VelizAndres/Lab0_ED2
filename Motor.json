@@ -1,0 +1,9 @@
+{
+	"cantcilindros":2,
+	"cilindrada":125,
+	"dostiempos":false,
+	"cilindrom":{
+				"altura":15,
+				"diametro":63.5						
+				}
+}
